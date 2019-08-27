@@ -7,5 +7,5 @@
 
 最后是使用的web.py搭建简单的服务器，利用post请求实现文件的上传
 
-#web.py简单教程：https://blog.csdn.net/qq_22194315/article/details/79114533
-#web.py的安装：http://webpy.org/install.zh-cn
+# web.py简单教程：https://blog.csdn.net/qq_22194315/article/details/79114533
+# web.py的安装：http://webpy.org/install.zh-cn
